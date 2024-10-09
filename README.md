@@ -8,3 +8,10 @@ The goal of this project is to analyze the Spotify Song Attributes dataset to un
 2. Music Production: Data insights on trends like danceability, energy, and valence guide artists and producers in creating tracks that resonate with specific audiences.
 3. Marketing and Playlist Curation: Marketers can target audiences more effectively by understanding the attributes that define popular tracks in different genres, aiding in song promotion and playlist design.
 4. Predictive Analytics: Trends in song attributes can be used to predict the future popularity of tracks, helping record labels make informed promotion and investment decisions.
+
+### TARGET AUDIANCE:
+1. Music Streaming Professionals
+2. Music Producers and Artists
+3. Data Scientists and Analysts
+4. Marketers and Music Promoters
+5. Researchers in Audio and Music Analytics
